@@ -8,10 +8,10 @@ AI-SOC 365
 We have successfully developed and tested a fully coded AI-Driven Security Operations Centre (SOC) Auto-Management System integrated with the Wazuh open-source platform.
 
 What makes this powerful?
-✅ End-to-end automated SOC operations
-✅ AI-driven alert correlation & prioritization
-✅ Automated incident triage and response workflows
-✅ Intelligent threat validation & noise reduction
+✅ End-to-end automated SOC operations,
+✅ AI-driven alert correlation & prioritization,
+✅ Automated incident triage and response workflows,
+✅ Intelligent threat validation & noise reduction,
 ✅ Scalable architecture for enterprise environments
 
 This is not limited to basic agentic AI concepts . it is a production-ready, coded system designed for real-world SOC optimization.
