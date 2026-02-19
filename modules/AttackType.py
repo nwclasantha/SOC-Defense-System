@@ -1,0 +1,21 @@
+from enum import Enum
+
+class AttackType(Enum):
+    """Known attack types for classification."""
+    SHELLSHOCK = "shellshock"
+    SQL_INJECTION = "sql_injection"
+    XSS = "cross_site_scripting"
+    COMMAND_INJECTION = "command_injection"
+    PATH_TRAVERSAL = "path_traversal"
+    BRUTE_FORCE = "brute_force"
+    DOS = "denial_of_service"
+    MALWARE = "malware"
+    EXPLOIT = "exploit"
+    PORT_SCAN = "port_scan"
+    LOG4J = "log4j_log4shell"
+    LDAP_INJECTION = "ldap_injection"
+    XXE = "xml_external_entity"
+    SSRF = "server_side_request_forgery"
+    CREDENTIAL_ACCESS = "credential_access"
+    RECONNAISSANCE = "reconnaissance"
+    UNKNOWN = "unknown"
