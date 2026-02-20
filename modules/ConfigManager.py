@@ -23,9 +23,9 @@ class ConfigManager:
     def create_default_config(self):
         """Create default configuration file"""
         self.config['Elasticsearch'] = {
-            'url': 'https://xxxxxxxxxx.io:9200',
-            'username': 'xxxxxxxxxx',
-            'password': 'xxxxxxxxxx',
+            'url': 'https://xxxxxxxxxxxx:9200',
+            'username': 'xxxxxxxxxxxx',
+            'password': 'xxxxxxxxxxxx',
             'verify_ssl': 'False',
             'timeout': '30'
         }
@@ -65,15 +65,15 @@ class ConfigManager:
         }
 
         self.config['O365Email'] = {
-            'client_id': 'xxxxxxxxxx',
-            'tenant_id': 'xxxxxxxxxx',
+            'client_id': 'xxxxxxxxxxxx',
+            'tenant_id': 'xxxxxxxxxxxx',
             'redirect_uri': 'http://localhost:8089/callback',
             'default_recipients': ''
         }
 
         self.config['GmailEmail'] = {
-            'client_id': 'xxxxxxxxxx',
-            'client_secret': 'xxxxxxxxxx',
+            'client_id': 'xxxxxxxxxxxx',
+            'client_secret': 'xxxxxxxxxxxx',
             'redirect_uri': 'http://localhost:8089/callback',
             'default_recipients': ''
         }
