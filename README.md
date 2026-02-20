@@ -396,14 +396,6 @@ For licensing enquiries, please contact the project maintainers.
 
 ---
 
-## 📬 Contact
-
-| Channel | Details |
-|---|---|
-| **GitHub Issues** | [Open an issue](https://github.com/your-org/SOC-Defense-System/issues) for bugs or feature requests |
-| **Email** | `security-soc@your-org.com` |
-| **Discussions** | [GitHub Discussions](https://github.com/your-org/SOC-Defense-System/discussions) for questions and ideas |
-
 ---
 
 <p align="center">
